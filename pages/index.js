@@ -1,10 +1,7 @@
 function Home()
 {
 
-    return <h1>Aparecida Costa
-
-        Sua conta foi hackead
-    </h1>
+    return <h1>Aparecida Costa</h1>
     
 }
 
